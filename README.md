@@ -21,7 +21,7 @@ $ pip install rich
 $ pip install bs4
 $ pkg install git
 $ rm -rf lite
-$ git clone https://github.com/XNX-XNX/lite.git
+$ git clone https://github.com/MR-XC0D3/lite.git
 $ cd lite
 $ python lite.py
 
@@ -30,5 +30,5 @@ $ python lite.py
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python  ; pip install requests ; pip install mechanize ; pip install bs4 ; pkg install git ; rm -rf lite ; git clone https://github.com/XNX-XNX/lite.gite ; cd lite ; python lite.py
+pkg update ; pkg upgrade ; pkg install python  ; pip install requests ; pip install mechanize ; pip install bs4 ; pkg install git ; rm -rf lite ; git clone https://github.com/MR-XC0D3/lite.gite ; cd lite ; python lite.py
 ```
